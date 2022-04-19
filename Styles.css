@@ -1,0 +1,39 @@
+
+.city {
+    background-color: tomato;
+    color: white;
+    border: 10px black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    width: 20%;
+}
+.note{
+    font-size: 120%;
+    color: red;
+}
+.main{
+    text-align: center;
+}
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+} 
+
+h1 {
+    color: blueviolet;
+}
+
+p {
+    font-size: 120%;
+}
+
+* {
+    color: rgb(99, 45, 45);
+}
+
+/*
+Yorum
+*/
